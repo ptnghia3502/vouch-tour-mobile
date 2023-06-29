@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>493014158201-n98jrqdliulodvi83kje662rdhnapa7c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.493014158201-n98jrqdliulodvi83kje662rdhnapa7c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>493014158201-gs38cd35a7rds7bet4lu70jbnv9jl0ln.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBn2eLkwbNwYzND6xL5b_-xHrcdh2_mx8Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>493014158201</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vouchTourMobile</string>
+	<key>PROJECT_ID</key>
+	<string>vouch-tour-mobile-swd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vouch-tour-mobile-swd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:493014158201:ios:ca715a75be04a3e8517da8</string>
+</dict>
+</plist>
